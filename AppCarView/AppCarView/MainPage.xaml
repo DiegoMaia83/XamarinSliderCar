@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="AppCarView.MainPage">
+
+    <Grid Padding="20" BackgroundColor="#ededed">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto" />
+            <RowDefinition Height="*" />
+            <RowDefinition Height="20" />
+            <RowDefinition Height="60" />
+        </Grid.RowDefinitions>
+
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="*"/>
+        </Grid.ColumnDefinitions>
+
+        <Frame Grid.Row="0" Grid.ColumnSpan="2">
+            <Label Text="Volkswagen Polo" FontSize="Large" HorizontalOptions="CenterAndExpand" />
+        </Frame>
+
+        <Image x:Name="imgCar" Source="car_1.jpg" Grid.Row="1" Grid.ColumnSpan="2" Aspect="AspectFit" />
+
+        <Label x:Name="lbDescricao" Text="Vista Inicial" HorizontalOptions="CenterAndExpand" Grid.Row="2" Grid.ColumnSpan="2" />
+
+        <Button Text="Anterior" Grid.Row="3" Grid.Column="0" Clicked="DecrementaFoto" BackgroundColor="#b8185c" TextColor="#ffffff" />
+        <Button Text="Próxima" Grid.Row="3" Grid.Column="1" Clicked="IncrementaFoto" BackgroundColor="#b8185c" TextColor="#ffffff"/>
+
+    </Grid>
+
+</ContentPage>

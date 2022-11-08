@@ -1,0 +1,14 @@
+D:\Desenvolvimento\Xamarin\Tutorial\AppCarView\AppCarView\AppCarView\bin\Debug\netstandard2.0\AppCarView.deps.json
+D:\Desenvolvimento\Xamarin\Tutorial\AppCarView\AppCarView\AppCarView\bin\Debug\netstandard2.0\AppCarView.dll
+D:\Desenvolvimento\Xamarin\Tutorial\AppCarView\AppCarView\AppCarView\bin\Debug\netstandard2.0\ref\AppCarView.dll
+D:\Desenvolvimento\Xamarin\Tutorial\AppCarView\AppCarView\AppCarView\bin\Debug\netstandard2.0\AppCarView.pdb
+D:\Desenvolvimento\Xamarin\Tutorial\AppCarView\AppCarView\AppCarView\obj\Debug\netstandard2.0\AppCarView.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desenvolvimento\Xamarin\Tutorial\AppCarView\AppCarView\AppCarView\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\Desenvolvimento\Xamarin\Tutorial\AppCarView\AppCarView\AppCarView\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+D:\Desenvolvimento\Xamarin\Tutorial\AppCarView\AppCarView\AppCarView\obj\Debug\netstandard2.0\AppCarView.AssemblyInfoInputs.cache
+D:\Desenvolvimento\Xamarin\Tutorial\AppCarView\AppCarView\AppCarView\obj\Debug\netstandard2.0\AppCarView.AssemblyInfo.cs
+D:\Desenvolvimento\Xamarin\Tutorial\AppCarView\AppCarView\AppCarView\obj\Debug\netstandard2.0\AppCarView.csproj.CoreCompileInputs.cache
+D:\Desenvolvimento\Xamarin\Tutorial\AppCarView\AppCarView\AppCarView\obj\Debug\netstandard2.0\XamlC.stamp
+D:\Desenvolvimento\Xamarin\Tutorial\AppCarView\AppCarView\AppCarView\obj\Debug\netstandard2.0\AppCarView.dll
+D:\Desenvolvimento\Xamarin\Tutorial\AppCarView\AppCarView\AppCarView\obj\Debug\netstandard2.0\ref\AppCarView.dll
+D:\Desenvolvimento\Xamarin\Tutorial\AppCarView\AppCarView\AppCarView\obj\Debug\netstandard2.0\AppCarView.pdb
